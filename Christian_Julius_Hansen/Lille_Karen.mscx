@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -501,10 +501,8 @@
               <text>gi</text>
               </Lyrics>
             <Lyrics>
-              <syllabic>end</syllabic>
-              <ticks>240</ticks>
-              <ticks_f>1/8</ticks_f>
-              <text>hejmad</text>
+              <syllabic>middle</syllabic>
+              <text>hje</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -527,6 +525,11 @@
               <no>2</no>
               <syllabic>middle</syllabic>
               <text>rer</text>
+              </Lyrics>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
+              <text>mad</text>
               </Lyrics>
             <Note>
               <pitch>63</pitch>
@@ -584,14 +587,12 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <no>1</no>
-              <ticks>240</ticks>
-              <ticks_f>1/8</ticks_f>
-              <text>flöjters</text>
+              <syllabic>begin</syllabic>
+              <text>flöj</text>
               </Lyrics>
             <Lyrics>
-              <ticks>240</ticks>
-              <ticks_f>1/8</ticks_f>
-              <text>marken</text>
+              <syllabic>begin</syllabic>
+              <text>mar</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -611,6 +612,15 @@
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
               <text>des</text>
+              </Lyrics>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ken</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>ters</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -727,9 +737,8 @@
               </Lyrics>
             <Lyrics>
               <no>2</no>
-              <ticks>240</ticks>
-              <ticks_f>1/8</ticks_f>
-              <text>fuglen</text>
+              <syllabic>begin</syllabic>
+              <text>fug</text>
               </Lyrics>
             <Note>
               <pitch>61</pitch>
@@ -747,6 +756,12 @@
             <Lyrics>
               <no>1</no>
               <text>vi</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
+              <text>len</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -766,9 +781,8 @@
               </Lyrics>
             <Lyrics>
               <no>2</no>
-              <ticks>240</ticks>
-              <ticks_f>1/8</ticks_f>
-              <text>bygger</text>
+              <syllabic>begin</syllabic>
+              <text>byg</text>
               </Lyrics>
             <Note>
               <Accidental>
@@ -790,6 +804,12 @@
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
               <text>ver</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
+              <text>ger</text>
               </Lyrics>
             <Note>
               <pitch>68</pitch>
@@ -1175,11 +1195,15 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>pa</text>
+              <syllabic>end</syllabic>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
+              <text>paa</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
               <text>saa</text>
               </Lyrics>
             <Lyrics>
@@ -1204,11 +1228,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <ticks_f>0/16</ticks_f>
-              <text>a</text>
-              </Lyrics>
             <Spanner type="Slur">
               <prev>
                 <location>
@@ -1329,9 +1348,8 @@
               </Lyrics>
             <Lyrics>
               <no>2</no>
-              <ticks>240</ticks>
-              <ticks_f>1/8</ticks_f>
-              <text>drømmer</text>
+              <syllabic>begin</syllabic>
+              <text>drøm</text>
               </Lyrics>
             <Note>
               <pitch>61</pitch>
@@ -1370,6 +1388,12 @@
             <Lyrics>
               <no>1</no>
               <text>du</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>mer</text>
               </Lyrics>
             <Note>
               <pitch>63</pitch>
@@ -1439,8 +1463,8 @@
               </Lyrics>
             <Lyrics>
               <no>2</no>
-              <syllabic>begin</syllabic>
-              <text>kjærlig</text>
+              <syllabic>middle</syllabic>
+              <text>kjær</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -1483,6 +1507,11 @@
               <ticks>120</ticks>
               <ticks_f>1/16</ticks_f>
               <text>til</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>middle</syllabic>
+              <text>lig</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
