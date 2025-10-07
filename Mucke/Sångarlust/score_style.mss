@@ -24,7 +24,7 @@
     <spreadSystem>2.5</spreadSystem>
     <spreadSquareBracket>1.2</spreadSquareBracket>
     <spreadCurlyBracket>1.1</spreadCurlyBracket>
-    <minSystemSpread>8.5</minSystemSpread>
+    <minSystemSpread>4</minSystemSpread>
     <maxSystemSpread>32</maxSystemSpread>
     <minStaffSpread>3.5</minStaffSpread>
     <maxStaffSpread>20</maxStaffSpread>
